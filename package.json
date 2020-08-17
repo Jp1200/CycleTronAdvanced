@@ -4,6 +4,7 @@
   "description": "light cycles",
   "main": "index.js",
   "scripts": {
+    "start": "npm run nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jack Parker",
